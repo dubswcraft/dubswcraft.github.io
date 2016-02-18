@@ -14,9 +14,9 @@ Also we would like to talk about software craftsmanship and what it means to us.
 
 Here are some pics from our last event
 
-![swcraft1.png]({{site.baseurl}}/_posts/swcraft1.png)
+![swcraft1.png](./_posts/swcraft1.png)
 
-![swcraft2.png]({{site.baseurl}}/_posts/swcraft2.png)
+![swcraft2.png](/_posts/swcraft2.png)
 
 ![swcraft3.png]({{site.baseurl}}/_posts/swcraft3.png)
 
