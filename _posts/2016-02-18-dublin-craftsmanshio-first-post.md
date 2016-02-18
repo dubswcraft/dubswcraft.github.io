@@ -1,9 +1,9 @@
 ---
-layout: post
-title: We are up and running
-date: {}
-summary: "Our first blog post"
-published: true
+layout:     post
+title:      We have a blog!
+date:       2016-02-18
+summary:    First blog post
+published:  true   
 categories: software craftsmanship
 ---
 
