@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About Our Community
 permalink: /about/
 tags: about
 ---
