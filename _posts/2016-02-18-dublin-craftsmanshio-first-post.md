@@ -14,10 +14,10 @@ Also we would like to talk about software craftsmanship and what it means to us.
 
 Here are some pics from our last event
 
-![swcraft1.png](./_posts/swcraft1.png)
+![swcraft1.png](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/swcraft1.png)
 
-![swcraft2.png](/_posts/swcraft2.png)
+![swcraft2.png](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/swcraft2.png)
 
-![swcraft3.png]({{site.baseurl}}/_posts/swcraft3.png)
+![swcraft3.png](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/swcraft3.png)
 
-![swcraft4.png]({{site.baseurl}}/_posts/swcraft4.png)
+![swcraft4.png](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/swcraft4.png)
