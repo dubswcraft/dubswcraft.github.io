@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Baby Steps!"!
-date: 2016-02-22
-summary: "Our first hands on session!"!
-published: true
+layout: 	post
+title: 		Baby Steps!
+date: 		2016-02-22
+summary: 	Our first hands on session!
+published: 	true
 categories: software craftsmanship
 ---
 
