@@ -19,10 +19,10 @@ Once again thank you very much to TCube for providing the great space in such a 
 
 Some of the solutions from the evening:
 
-* https://github.com/dubswcraft/handson-scala
-* https://github.com/dubswcraft/handson-clojure
-* https://github.com/dubswcraft/handson-java
-* https://github.com/dubswcraft/handson-python
+* [Scala](https://github.com/dubswcraft/handson-scala)
+* [Clojure](https://github.com/dubswcraft/handson-clojure)
+* [Java](https://github.com/dubswcraft/handson-java)
+* [Python](https://github.com/dubswcraft/handson-python)
 
 Some pics from the evening
 
