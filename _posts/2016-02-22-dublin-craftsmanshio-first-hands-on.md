@@ -17,6 +17,13 @@ Committing often and small logical changes makes your commit log into its own do
 
 Once again thank you very much to TCube for providing the great space in such a great location
 
+Some of the solutions from the evening:
+
+* https://github.com/dubswcraft/handson-scala
+* https://github.com/dubswcraft/handson-clojure
+* https://github.com/dubswcraft/handson-java
+* https://github.com/dubswcraft/handson-python
+
 Some pics from the evening
 
 ![handson-1.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/handson-18feb2015/handson-1.jpg)
@@ -27,11 +34,3 @@ Some pics from the evening
 
 ![handson-4.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/handson-18feb2015/handson-4.jpg)
 
-Some of the solutions from the evening:
-
-Here are some of the solutions:
-
-https://github.com/dubswcraft/handson-scala
-https://github.com/dubswcraft/handson-clojure
-https://github.com/dubswcraft/handson-java
-https://github.com/dubswcraft/handson-python
