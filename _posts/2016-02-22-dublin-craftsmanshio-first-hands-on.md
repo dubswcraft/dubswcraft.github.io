@@ -27,3 +27,11 @@ Some pics from the evening
 
 ![handson-4.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/handson-18feb2015/handson-4.jpg)
 
+Some of the solutions from the evening:
+
+Here are some of the solutions:
+
+https://github.com/dubswcraft/handson-scala
+https://github.com/dubswcraft/handson-clojure
+https://github.com/dubswcraft/handson-java
+https://github.com/dubswcraft/handson-python
