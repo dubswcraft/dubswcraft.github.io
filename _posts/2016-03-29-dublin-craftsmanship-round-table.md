@@ -1,36 +1,29 @@
 ---
-layout: 	post
-title: 		Baby Steps!
-date: 		2016-02-22
-summary: 	Our first hands on session!
-published: 	true
+layout: post
+title: "Baby Steps!"
+date: {}
+summary: "Our first hands on session!"
+published: true
 categories: software craftsmanship
 ---
 
-This month was more of a hands on session for the Dublin Software Craftsmanship meetup. A group of about a dozen developers of varying experience gave up their Thursday night to pair through a problem with a small caveat. You had to commit regularly or lose your code!
 
-The premise was simple, you pair through a problem in the language of your choice. You write a test first which obviously goes Red. Next you start a timer. 2 minutes on the clock, make that test green or revert your code to your last commit. 2 minutes pass, if your tests are failing you revert your code and try again. All green you think about refactoring and continue the above cycle.
+This month seen a return to the evening open space format where a number of lightening talks kick off the night following by an 'unconference' style evening where people decide and vote on the night what they want to discuss.
 
-This little challenge took the idea of continuous delivery and continuous integration to the extreme. It was an entire sprint compacted into a 30 minute challenge that hopefully made people think about how long and how much code they were writing between commits.
+The lightening talks commenced with Duncan Jones giving a show and tell of a CQRS Dsl/designer that he is working on. It's a library that allows you to graphically design domain models consisting of aggregate identifiers, events, projects, commands, queries and identity groups with the resulting model then turned into code. Very interesting discussion on a very intersting topic/design pattern. 
 
-Committing often and small logical changes makes your commit log into its own documentation. Each change is clearly outline and visible, as apposed to one giant commit at the end of a day.
 
-Once again thank you very much to TCube for providing the great space in such a great location
 
-Some of the solutions from the evening:
+More details here:
+[CQRS Designer](http://www.codeproject.com/Articles/1062409/CQRS-designer)
+[https://en.wikipedia.org/wiki/Command%E2%80%93query_separation](CQRS Design Patter)
 
-* [Scala](https://github.com/dubswcraft/handson-scala)
-* [Clojure](https://github.com/dubswcraft/handson-clojure)
-* [Java](https://github.com/dubswcraft/handson-java)
-* [Python](https://github.com/dubswcraft/handson-python)
+Next up, Paul gave a talk about revisiting the SOLID principles with functional programming. The talk centered around whether the SOLID principles prevalent in object oriented progamming hold much ground in functional programming. 
 
-Some pics from the evening
+[Presentation to follow when I can figure out how to export with reveal.js]
 
-![handson-1.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/handson-18feb2015/handson-1.jpg)
-
-![handson-2.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/handson-18feb2015/handson-2.jpg)
-
-![handson-3.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/handson-18feb2015/handson-3.jpg)
-
-![handson-4.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/handson-18feb2015/handson-4.jpg)
-
+![2016-03-24 19.03.48.jpg]({{site.baseurl}}/_posts/2016-03-24 19.03.48.jpg)
+![2016-03-24 19.03.44.jpg]({{site.baseurl}}/_posts/2016-03-24 19.03.44.jpg)
+![2016-03-24 18.47.03.jpg]({{site.baseurl}}/_posts/2016-03-24 18.47.03.jpg)
+![2016-03-24 19.03.41.jpg]({{site.baseurl}}/_posts/2016-03-24 19.03.41.jpg)
+![2016-03-24 18.46.57.jpg]({{site.baseurl}}/_posts/2016-03-24 18.46.57.jpg)
