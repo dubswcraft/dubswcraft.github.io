@@ -3,7 +3,7 @@ layout: post
 title: "Evening Open Space - Lightening Talks, Remote Teams & Interview Techniques"
 date: {}
 summary: ""
-published: false
+published: true
 categories: software craftsmanship
 ---
 
