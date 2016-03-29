@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evening Open Space - Lightening Talks, Remote Teams & Interview Techniques"
-date: {}
+date: 2016-03-24 
 summary: ""
 published: true
 categories: software craftsmanship

@@ -1,14 +1,14 @@
 # Site Info
-title:              "Dublin Software Craftsmanship Community"
-description:        "A Dublin based community for those who care and are proud of what they do"
-google_verify:      https://avatars0.githubusercontent.com/u/16643823?v=3&s=460
+title:              "The Plain"
+description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "dubswcraft"
-author_email:       dubswcraft@gmail.com
+author_name:        "Heiswayi Nrird"
+author_email:       hnrird@gmail.com
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
-twitter_username:   dubswcraft
+twitter_username:   HeiswayiNrird
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      We have a blog!
-date:       2016-02-18
+date:       2016-02-18 22:32
 summary:    First blog post
 published:  true   
 categories: software craftsmanship
