@@ -54,7 +54,7 @@ Other photos from the evening:
 
 Thats all I can think of. 
 
-Thanks for coming, 
+Thanks for coming and thanks again for Barry and all the team in TechMeetup.Space for hosting, 
 
 Paul & Joe
 
