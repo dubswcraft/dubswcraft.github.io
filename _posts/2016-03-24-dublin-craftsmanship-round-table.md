@@ -26,6 +26,7 @@ Next up, Paul gave a talk about revisiting the SOLID principles with functional 
 ![2016-03-24 19.03.44.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/2016-03-24 19.03.44.jpg)
 
 [Presentation to follow when I can figure out how to export with reveal.js]
+- [Revisiting Solid Principles with FP ](https://www.dropbox.com/s/ww9rxga54399zvt/index.html?dl=0)(sorry about formatting)
 
 The rest of the evening followed the 'unconference' format where we all voted on the following topics:
 
