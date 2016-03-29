@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baby Steps!"
+title: "Evening Open Space - Lightening Talks, Remote Teams & Interview Techniques"
 date: {}
 summary: "Our first hands on session!"
 published: true
