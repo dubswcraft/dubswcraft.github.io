@@ -2,7 +2,7 @@
 layout: post
 title: "Evening Open Space - Lightening Talks, Remote Teams & Interview Techniques"
 date: {}
-summary: "Our first hands on session!"
+summary: ""
 published: true
 categories: software craftsmanship
 ---
