@@ -18,18 +18,18 @@ More details here:
 [CQRS Designer](http://www.codeproject.com/Articles/1062409/CQRS-designer)
 [https://en.wikipedia.org/wiki/Command%E2%80%93query_separation](CQRS Design Patter)
 
-![2016-03-24 19.03.48.jpg]({{site.baseurl}}/_posts/images/2016-03-24 19.03.48.jpg)
-![2016-03-24 19.03.41.jpg]({{site.baseurl}}/_posts/images/2016-03-24 19.03.41.jpg)
+![2016-03-24 19.03.48.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/2016-03-24 19.03.48.jpg)
+![2016-03-24 19.03.41.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/2016-03-24 19.03.41.jpg)
 
 Next up, Paul gave a talk about revisiting the SOLID principles with functional programming. The talk centered around whether the SOLID principles prevalent in object oriented progamming hold much ground in functional programming. 
 
-![2016-03-24 19.03.44.jpg]({{site.baseurl}}/_posts/images/2016-03-24 19.03.44.jpg)
+![2016-03-24 19.03.44.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/2016-03-24 19.03.44.jpg)
 
 [Presentation to follow when I can figure out how to export with reveal.js]
 
 The rest of the evening followed the 'unconference' format where we all voted on the following topics:
 
-![2016-03-24 21.21.08.jpg]({{site.baseurl}}/_posts/images/2016-03-24 21.21.08.jpg)
+![2016-03-24 21.21.08.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/2016-03-24 21.21.08.jpg)
 
 Working with remote teams & Interviewing techniques were the clear winners.
 
@@ -47,8 +47,8 @@ Remote teams key points
 [P4](https://www.perforce.com/perforce/doc.current/manuals/cmdref/p4_client.html)
 
 Other photos from the evening:
-![2016-03-24 18.47.03.jpg]({{site.baseurl}}/_posts/images/2016-03-24 18.47.03.jpg)
-![2016-03-24 18.46.57.jpg]({{site.baseurl}}/_posts/images/2016-03-24 18.46.57.jpg)
+![2016-03-24 18.47.03.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/2016-03-24 18.47.03.jpg)
+![2016-03-24 18.46.57.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/2016-03-24 18.46.57.jpg)
 
 Thats all I can think of. 
 
