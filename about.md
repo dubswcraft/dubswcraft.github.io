@@ -3,10 +3,7 @@ layout: page
 title: About
 ---
 
-Hello.
+Hi :)
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
-
-**Just write thing that matters..**
-
-Enjoy!
+Welcome to the blog for Dublin Software Craftsmanship, a monthly meetup around all things software developement. 
+We host meetups in the city center on every 3rd Thursday, why not come along?
