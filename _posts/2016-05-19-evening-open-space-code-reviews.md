@@ -67,3 +67,4 @@ Great discussion as always.
  
 Other photos from the evening
 ![conversation.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/evening-open-space-19-may-2016/conversation.jpg)
+![intro.jpeg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/evening-open-space-19-may-2016/intro.jpeg)
