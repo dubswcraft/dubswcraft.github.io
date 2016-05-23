@@ -68,3 +68,7 @@ Great discussion as always.
 Other photos from the evening
 ![conversation.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/evening-open-space-19-may-2016/conversation.jpg)
 ![intro.jpeg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/evening-open-space-19-may-2016/intro.jpeg)
+
+Special thanks again to Barry Alistair in Techmeetup.space for providing the excellent venue. Also, thanks to Gerry from Stack and Co for sponsoring the craft beers for the evening.
+![intro.jpeg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/common/techmeetup-space.png)
+![stackandco.png](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/common/stackandco.png)
