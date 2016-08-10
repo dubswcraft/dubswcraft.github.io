@@ -23,14 +23,14 @@ Details here:
  
 Next up was yours truly. Hard act to follow :) I gave a tooling overview of how I use sublime text for web development.
 This is a list of the plugins I mentioned on the night : 
--   Red
--   AceJump Plugin
--   Emmet Plugin
--   ExpandRegion
--   Expand Selection To Quotes
--   JS-Hint
--   Plain Tasks
--   Bracket Highlighter
+
+ -   AceJump Plugin
+ -   Emmet Plugin
+ -   ExpandRegion
+ -   Expand Selection To Quotes
+ -   JS-Hint
+ -   Plain Tasks
+ -   Bracket Highlighter
  
 ![vote-board.jpg](https://raw.githubusercontent.com/dubswcraft/dubswcraft.github.io/master/_posts/images/eos-21-july-2016/vote-board.jpg)
 
