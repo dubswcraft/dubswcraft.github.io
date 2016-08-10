@@ -39,17 +39,19 @@ This is a list of the plugins I mentioned on the night :
 Interesting discussion here. Lots of new languages/frameworks coming on board. General agreement was to really get to understand the foundations of software development. Really take the time to invest in software principles that can be applied everywhere. Clean code, DDD, refactoring techniques, always striving for simplicity and clarity and minimizing duplication.
 
 Chatted about how a community is always a good approach for learning as it adds accountability. Tips for this: 
- * Setting up a book club in work
- * Getting some of your colleagues to take on a coursera course together. 
- * If your work is not that interesting right now, start contributing to a open source project that leverages the languages you want to learn about.
- * Going to meetups like this one. 
+
+  * Setting up a book club in work
+  * Getting some of your colleagues to take on a coursera course together. 
+  * If your work is not that interesting right now, start contributing to a open source project that leverages the languages you want to learn about.
+  * Going to meetups like this one. 
 
 Other topics we discussed on the evening were dealing with conflict.
 
 Again some very useful insights here.  Tips for dealing with this
+
  * Speak with your boss, let it be known what the issues. 
  * Always favour ignorance over malice, the person who you are not in conflict with might not even know that they are being offensive. Have a one-to-one with them. Talk to the person about your interprations
- 	> 'I'm not sure if you meant it this way, but this is the way you came across...'
+ 	_'I'm not sure if you meant it this way, but this is the way you came across...'_
 
 Special thanks again to Barry Alistair in [Techmeetup.space](http://techmeetup.space/) for providing the excellent venue. Also, thanks to Gerry from [Stack and Co](http://stackand.co/) for sponsoring the craft beers for the evening.
 
