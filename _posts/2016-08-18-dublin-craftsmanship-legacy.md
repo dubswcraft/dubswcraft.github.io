@@ -10,7 +10,10 @@ categories: software craftsmanship
 
 This month was back to a hands on session for the Dublin Software Craftsmanship meetup group. This time we did a workshop on working effectively with legacy code. 
 
-The exercise for the evening was to work with a bad piece of untested code. We started off by introducing golde
+The exercise for the evening was to work with a bad piece of untested code. We started off by introducing the golden master. What is the Golden Master? 
+Its a process that allows you to guard against unintended changes when working with legacy code. It protects against introducing bugs when you attempt to 'fix' behaviour.
+They are another type test that allow you to characterize what the system is doing. 
+
 
 Joe gave a great presentation that introduced the concepts of Functional Programming - [click here to download](https://www.dropbox.com/s/lxe54jvd5ydjjpa/Functional%20Programming.pdf?dl=0). The presentation was heavy on coding without any side effects, where a function does not rely on data outside the current function and dosen't change data that lives outside the current function.  After the presentation, It was onto the exercises. Throughout the evening we worked through 6 exercises in total. We got exposure to mapping, reducing, folding, recursing and the use of higher order functions. In short, we were trying to code without any side effects.
  
