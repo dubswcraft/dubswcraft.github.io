@@ -12,11 +12,27 @@ This month was back to a hands on session for the Dublin Software Craftsmanship 
 
 The exercise for the evening was to work with a bad piece of untested code. We started off by introducing the golden master. What is the Golden Master? 
 Its a process that allows you to guard against unintended changes when working with legacy code. It protects against introducing bugs when you attempt to 'fix' behaviour.
-They are another type test that allow you to characterize what the system is doing. 
+They are another type test that allow you to characterize what the system is doing. Also they shouldn't be seen as a replacement for unit tests. Rather it gives you your initial safety net. 
 
+For the golden master section we used an [approvals test suite](http://approvaltests.sourceforge.net/). This library will tell you that something has changed, it won't tell you whether it's correct that it changed. Maybe you fixed a typo for good reason. 
 
-Joe gave a great presentation that introduced the concepts of Functional Programming - [click here to download](https://www.dropbox.com/s/lxe54jvd5ydjjpa/Functional%20Programming.pdf?dl=0). The presentation was heavy on coding without any side effects, where a function does not rely on data outside the current function and dosen't change data that lives outside the current function.  After the presentation, It was onto the exercises. Throughout the evening we worked through 6 exercises in total. We got exposure to mapping, reducing, folding, recursing and the use of higher order functions. In short, we were trying to code without any side effects.
- 
+Next we started unit testing. The rules for the exercise was when a class/feature was 100% unit tested, then we could refactor it. 
+We used code coverage for this. Not necessairly to hit a percentage. More to ensure that the section of code we had intended on testing was tested by the unit test. 
+We learned when testing, it is important to test from the shortest branch to the deepest branch. Otherwise there is too much setup in your tests.
+We introduced seams ()
+
+We learned that when testing legacy code, it is important to test from the shortest branch.
+Remainder/Unit testing
+ We are going to take the piece of existing code without tests and write tests for it
+   ☐ Only automated refactorings are allowed till your code is covered by a test
+   ☐ When it is 100% covered, then we can refactor it
+   ☐ Look at trip service, started testing from the shortest branch - this is when a user is not logged in exception
+ ☐ Introduce Seams
+   ☐ The problem that we have is that this is a singleton, we can't inject it, we can't mock it.
+   ☐ What can we do? We can only use automated refactorings
+   ☐ We can create a seam - a seam is where the two classes meet, the UserSession and the TripService, what we do is isolate the bit that goes to the other class and that is our seam.
+   ☐ We can create a private class that extends teh trip service
+ ☐ Run your code coverage, make sure that the test that you have just written tests the short branch.
 The exercises that we worked through during the evening can be found here:
 
 [dubswcraft repo](https://github.com/dubswcraft/handson-legacy)
