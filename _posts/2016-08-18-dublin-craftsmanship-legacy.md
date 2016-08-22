@@ -14,25 +14,19 @@ The exercise for the evening was to work with a bad piece of untested code. We s
 Its a process that allows you to guard against unintended changes when working with legacy code. It protects against introducing bugs when you attempt to 'fix' behaviour.
 They are another type test that allow you to characterize what the system is doing. Also they shouldn't be seen as a replacement for unit tests. Rather it gives you your initial safety net. 
 
-For the golden master section we used an [approvals test suite](http://approvaltests.sourceforge.net/). This library will tell you that something has changed, it won't tell you whether it's correct that it changed. Maybe you fixed a typo for good reason. 
+For the golden master section we used an [approvals test suite](http://approvaltests.sourceforge.net/). This library will tell you that something has changed, it won't tell you whether it's correct that it changed. But it will inform you.
 
 Next we started unit testing. The rules for the exercise was when a class/feature was 100% unit tested, then we could refactor it. 
 We used code coverage for this. Not necessairly to hit a percentage. More to ensure that the section of code we had intended on testing was tested by the unit test. 
 We learned when testing, it is important to test from the shortest branch to the deepest branch. Otherwise there is too much setup in your tests.
-We introduced seams for helping us break the singleton/static dependencies in our sample program.
+We introduced seams for helping us break the singleton/static dependencies in our sample program. 
 
-We learned that when testing legacy code, it is important to test from the shortest branch.
-Remainder/Unit testing
- We are going to take the piece of existing code without tests and write tests for it
-   ☐ Only automated refactorings are allowed till your code is covered by a test
-   ☐ When it is 100% covered, then we can refactor it
-   ☐ Look at trip service, started testing from the shortest branch - this is when a user is not logged in exception
- ☐ Introduce Seams
-   ☐ The problem that we have is that this is a singleton, we can't inject it, we can't mock it.
-   ☐ What can we do? We can only use automated refactorings
-   ☐ We can create a seam - a seam is where the two classes meet, the UserSession and the TripService, what we do is isolate the bit that goes to the other class and that is our seam.
-   ☐ We can create a private class that extends teh trip service
- ☐ Run your code coverage, make sure that the test that you have just written tests the short branch.
+During refactoring steps for the evening we tackled issues like feature envy, violations of single responsibility princple.
+
+We tried to leverage baby steps throughout. This is a technique that works really well with legacy code. You are working on a system that you are not familiar with. Mistakes can come out from any small change. You would not like to be in the situation where some tests stop passing and you do not know what you did.
+
+As with a lot of these sessions the evening was up a little too soon. Maybe a full day legacy retreat is in store for running a session like this again. 
+
 The exercises that we worked through during the evening can be found here:
 
 [dubswcraft repo](https://github.com/dubswcraft/handson-legacy)
