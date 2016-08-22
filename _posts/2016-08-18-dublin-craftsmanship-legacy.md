@@ -19,7 +19,7 @@ For the golden master section we used an [approvals test suite](http://approvalt
 Next we started unit testing. The rules for the exercise was when a class/feature was 100% unit tested, then we could refactor it. 
 We used code coverage for this. Not necessairly to hit a percentage. More to ensure that the section of code we had intended on testing was tested by the unit test. 
 We learned when testing, it is important to test from the shortest branch to the deepest branch. Otherwise there is too much setup in your tests.
-We introduced seams ()
+We introduced seams for helping us break the singleton/static dependencies in our sample program.
 
 We learned that when testing legacy code, it is important to test from the shortest branch.
 Remainder/Unit testing
