@@ -16,20 +16,20 @@ They are another type test that allow you to characterize what the system is doi
 
 For the golden master section we used an [approvals test suite](http://approvaltests.sourceforge.net/). This library will tell you that something has changed, it won't tell you whether it's correct that it changed. But it will inform you.
 
-Next we started unit testing. The rules for the exercise was when a class/feature was 100% unit tested, then we could refactor it. 
-We used code coverage for this. Not necessairly to hit a percentage. More to ensure that the section of code we had intended on testing was tested by the unit test. 
+Next we started unit testing. The rules for the exercise was when a class/feature was 100% unit tested, then we could refactor it. Until we reached that point we could only use automatic refactorings from the IDE. We used code coverage a lot during unit testing. It's very useful to use code coverage when refactoring legacy code.
+Not necessairly so that you can hit a percentage. More to ensure that the section of code you had intended on testing was indeed tested by the unit test. 
 We learned when testing, it is important to test from the shortest branch to the deepest branch. Otherwise there is too much setup in your tests.
 We introduced seams for helping us break the singleton/static dependencies in our sample program. 
 
-During refactoring steps for the evening we tackled issues like feature envy, violations of single responsibility princple.
+During refactoring steps for the evening we tackled issues like feature envy, violations of single responsibility princple and many more.
 
 We tried to leverage baby steps throughout. This is a technique that works really well with legacy code. You are working on a system that you are not familiar with. Mistakes can come out from any small change. You would not like to be in the situation where some tests stop passing and you do not know what you did.
 
-As with a lot of these sessions the evening was up a little too soon. Maybe a full day legacy retreat is in store for running a session like this again. 
+As with a lot of the hands on sessions the evening was up a little too soon. Maybe a full day legacy retreat is in store for running a session like this again. 
 
 The exercises that we worked through during the evening can be found here:
 
-[dubswcraft repo](https://github.com/dubswcraft/handson-legacy)
+[Legacy code github repository](https://github.com/dubswcraft/handson-legacy)
  
 Unfortunately we totally forgot to take any photos of the evening
 
